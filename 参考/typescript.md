@@ -1,3 +1,6 @@
+### Vue2.5+ + webpack + TypeScript脚手架 （搭建讲解很详细）
+https://www.jianshu.com/p/0828c5109807
+
 ### react+webpack+typescript项目搭建
 https://blog.csdn.net/qq_35423431/article/details/99623328
 
